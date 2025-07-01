@@ -1,6 +1,6 @@
 # gdm-binary
 
-> The GNOME Display Manager GDM) is a replacement for the X Display Manager (XDM).
+> The GNOME Display Manager (GDM) is a replacement for the X Display Manager (XDM).
 > See also: `gdm`, `gdmsetup`, `gdm-stop`, `gdm-restart`, `gdm-safe-restart`.
 
 - Run the GNOME Display Manager application:
